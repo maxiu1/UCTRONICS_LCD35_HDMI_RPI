@@ -9,3 +9,5 @@ sudo chmod +x install
 ```Bash
 sudo ./install 
 ```
+to calibrate display
+DISPLAY=:0 xinput_calibrator
